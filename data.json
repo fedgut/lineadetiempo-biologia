@@ -1,0 +1,257 @@
+{
+  "title": {
+    "text": {
+      "headline": "Antecedentes históricos del estudio de la Biología del comportamiento",
+      "text": "<p>Eduardo Federico Gutiérrez Pulido</p>"
+    }
+  },
+  "eras": [
+    { "start_date": { "year": -3000 }, "end_date": { "year": 1450 }, "text": { "headline": "Edad Antigua y Edad Media" } },
+    { "start_date": { "year": 1451 }, "end_date": { "year": 1700 }, "text": { "headline": "Renacimiento y Edad Moderna" } },
+    { "start_date": { "year": 1701 }, "end_date": { "year": 1799 }, "text": { "headline": "Siglo XVIII: la electricidad animal" } },
+    { "start_date": { "year": 1800 }, "end_date": { "year": 1899 }, "text": { "headline": "Siglo XIX: la corteza cerebral" } },
+    { "start_date": { "year": 1900 }, "end_date": { "year": 1999 }, "text": { "headline": "Siglo XX: la neurona y la química cerebral" } }
+  ],
+  "events": [
+    {
+      "start_date": { "year": -3000 },
+      "display_date": "c. 3000 a.C.",
+      "group": "Edad Antigua y Media",
+      "text": { "headline": "El texto en que se basa el papiro de Edwin Smith", "text": "" }
+    },
+    {
+      "start_date": { "year": -1700 },
+      "display_date": "c. 1700 a.C.",
+      "group": "Edad Antigua y Media",
+      "text": { "headline": "Papiro Quirúrgico de Edwin Smith", "text": "" }
+    },
+    {
+      "start_date": { "year": -460 },
+      "end_date": { "year": -377 },
+      "display_date": "c. 460-377 a.C.",
+      "group": "Edad Antigua y Media",
+      "text": { "headline": "Hipócrates sitúa la función mental en el cerebro", "text": "" }
+    },
+    {
+      "start_date": { "year": -384 },
+      "end_date": { "year": -322 },
+      "display_date": "384-322 a.C.",
+      "group": "Edad Antigua y Media",
+      "text": { "headline": "Aristóteles y el cardiocentrismo", "text": "" }
+    },
+    {
+      "start_date": { "year": 130 },
+      "end_date": { "year": 200 },
+      "display_date": "c. 130-200 d.C.",
+      "group": "Edad Antigua y Media",
+      "text": { "headline": "Galeno, los nervios huecos y los espíritus animales", "text": "" }
+    },
+    {
+      "start_date": { "year": 350 },
+      "display_date": "Siglo IV",
+      "group": "Edad Antigua y Media",
+      "text": { "headline": "Nemesio y la teoría ventricular", "text": "" }
+    },
+    {
+      "start_date": { "year": 1316 },
+      "group": "Edad Antigua y Media",
+      "text": { "headline": "La Anatomía de Mondino de Bolonia", "text": "" }
+    },
+    {
+      "start_date": { "year": 1452 },
+      "end_date": { "year": 1519 },
+      "display_date": "1452-1519",
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "Leonardo da Vinci: el molde de cera de los ventrículos", "text": "" }
+    },
+    {
+      "start_date": { "year": 1512 },
+      "group": "Edad Antigua y Media",
+      "text": { "headline": "La teoría ventricular ilustrada por Gregor Reisch", "text": "" }
+    },
+    {
+      "start_date": { "year": 1543 },
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "Vesalio publica De humani corporis fabrica", "text": "" }
+    },
+    {
+      "start_date": { "year": 1543 },
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "El mismo año: Copérnico y De revolutionibus orbium coelestium", "text": "" }
+    },
+    {
+      "start_date": { "year": 1596 },
+      "end_date": { "year": 1650 },
+      "display_date": "1596-1650",
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "Descartes: el cuerpo como máquina y la glándula pineal", "text": "" }
+    },
+    {
+      "start_date": { "year": 1621 },
+      "end_date": { "year": 1675 },
+      "display_date": "1621-1675",
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "Thomas Willis y la anatomía detallada del cerebro", "text": "" }
+    },
+    {
+      "start_date": { "year": 1637 },
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "Discurso del método", "text": "" }
+    },
+    {
+      "start_date": { "year": 1637 },
+      "end_date": { "year": 1680 },
+      "display_date": "1637-1680",
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "Swammerdam refuta los espíritus animales", "text": "" }
+    },
+    {
+      "start_date": { "year": 1650 },
+      "display_date": "Siglo XVII",
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "Harvey, Galileo y el fin de los cuatro humores", "text": "" }
+    },
+    {
+      "start_date": { "year": 1662 },
+      "display_date": "1662 y 1664",
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "De homine: el reflejo nervioso ilustrado", "text": "" }
+    },
+    {
+      "start_date": { "year": 1670 },
+      "display_date": "Siglo XVII",
+      "group": "Renacimiento y Edad Moderna",
+      "text": { "headline": "Leeuwenhoek y el ocaso de los nervios huecos", "text": "" }
+    },
+    {
+      "start_date": { "year": 1750 },
+      "display_date": "Siglo XVIII",
+      "group": "Siglo XVIII",
+      "text": { "headline": "La electricidad estática y la botella de Leyden", "text": "" }
+    },
+    {
+      "start_date": { "year": 1781 },
+      "end_date": { "year": 1791 },
+      "display_date": "Una década hasta 1791",
+      "group": "Siglo XVIII",
+      "text": { "headline": "Galvani y la electricidad animal", "text": "" }
+    },
+    {
+      "start_date": { "year": 1791 },
+      "group": "Siglo XVIII",
+      "text": { "headline": "De viribus electricitatis in motu musculari", "text": "" }
+    },
+    {
+      "start_date": { "year": 1800 },
+      "display_date": "Principios del siglo XIX",
+      "group": "Siglo XIX",
+      "text": { "headline": "Gall funda la frenología", "text": "" }
+    },
+    {
+      "start_date": { "year": 1808 },
+      "group": "Siglo XIX",
+      "text": { "headline": "La caricatura de Rowlandson: la frenología en la cultura popular", "text": "" }
+    },
+    {
+      "start_date": { "year": 1820 },
+      "group": "Siglo XIX",
+      "text": { "headline": "Flourens pone a prueba la frenología", "text": "" }
+    },
+    {
+      "start_date": { "year": 1828 },
+      "group": "Siglo XIX",
+      "text": { "headline": "Muere Gall y su cráneo entra en la colección", "text": "" }
+    },
+    {
+      "start_date": { "year": 1861 },
+      "group": "Siglo XIX",
+      "text": { "headline": "Broca y el caso de Monsieur Tan", "text": "" }
+    },
+    {
+      "start_date": { "year": 1862 },
+      "display_date": "Poco después de 1861",
+      "group": "Siglo XIX",
+      "text": { "headline": "Wernicke describe una afasia de comprensión", "text": "" }
+    },
+    {
+      "start_date": { "year": 1870 },
+      "group": "Siglo XIX",
+      "text": { "headline": "Fritsch y Hitzig descubren la corteza motora", "text": "" }
+    },
+    {
+      "start_date": { "year": 1873 },
+      "group": "Siglo XIX",
+      "text": { "headline": "Golgi descubre la reazione nera", "text": "" }
+    },
+    {
+      "start_date": { "year": 1876 },
+      "group": "Siglo XIX",
+      "text": { "headline": "Ferrier publica The functions of the brain", "text": "" }
+    },
+    {
+      "start_date": { "year": 1878 },
+      "group": "Siglo XIX",
+      "text": { "headline": "Ferrier y Hughlings Jackson fundan la revista Brain", "text": "" }
+    },
+    {
+      "start_date": { "year": 1881 },
+      "group": "Siglo XIX",
+      "text": { "headline": "El Congreso de Londres y el juicio contra Ferrier", "text": "" }
+    },
+    {
+      "start_date": { "year": 1887 },
+      "display_date": "Catorce años después de Golgi",
+      "group": "Siglo XIX",
+      "text": { "headline": "Cajal mejora la tinción con la doble impregnación", "text": "" }
+    },
+    {
+      "start_date": { "year": 1889, "month": 10 },
+      "display_date": "Otoño de 1889",
+      "group": "Siglo XIX",
+      "text": { "headline": "El congreso de Berlín y la conversión de Kölliker", "text": "" }
+    },
+    {
+      "start_date": { "year": 1899 },
+      "group": "Siglo XIX",
+      "text": { "headline": "Textura del sistema nervioso del hombre y de los vertebrados", "text": "" }
+    },
+    {
+      "start_date": { "year": 1906 },
+      "group": "Siglo XX",
+      "text": { "headline": "Nobel compartido: Cajal y Golgi", "text": "" }
+    },
+    {
+      "start_date": { "year": 1917 },
+      "group": "Siglo XX",
+      "text": { "headline": "Recuerdos de mi vida", "text": "" }
+    },
+    {
+      "start_date": { "year": 1932 },
+      "group": "Siglo XX",
+      "text": { "headline": "Sherrington nombra la sinapsis y recibe el Nobel con Adrian", "text": "" }
+    },
+    {
+      "start_date": { "year": 1936 },
+      "group": "Siglo XX",
+      "text": { "headline": "Dale y Loewi: la transmisión química del impulso nervioso", "text": "" }
+    },
+    {
+      "start_date": { "year": 1950 },
+      "display_date": "Década de 1950",
+      "group": "Siglo XX",
+      "text": { "headline": "Nace la psicología cognitiva", "text": "" }
+    },
+    {
+      "start_date": { "year": 1960 },
+      "display_date": "Década de 1960",
+      "group": "Siglo XX",
+      "text": { "headline": "Hubel y Wiesel en la corteza visual, Kandel en la memoria", "text": "" }
+    },
+    {
+      "start_date": { "year": 1990 },
+      "display_date": "Década de 1990",
+      "group": "Siglo XX",
+      "text": { "headline": "La década del cerebro y las técnicas de neuroimagen", "text": "" }
+    }
+  ]
+}
