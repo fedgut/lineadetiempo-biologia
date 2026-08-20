@@ -6,252 +6,732 @@
     }
   },
   "eras": [
-    { "start_date": { "year": -3000 }, "end_date": { "year": 1450 }, "text": { "headline": "Edad Antigua y Edad Media" } },
-    { "start_date": { "year": 1451 }, "end_date": { "year": 1700 }, "text": { "headline": "Renacimiento y Edad Moderna" } },
-    { "start_date": { "year": 1701 }, "end_date": { "year": 1799 }, "text": { "headline": "Siglo XVIII: la electricidad animal" } },
-    { "start_date": { "year": 1800 }, "end_date": { "year": 1899 }, "text": { "headline": "Siglo XIX: la corteza cerebral" } },
-    { "start_date": { "year": 1900 }, "end_date": { "year": 1999 }, "text": { "headline": "Siglo XX: la neurona y la química cerebral" } }
+    {
+      "start_date": {
+        "year": -3000
+      },
+      "end_date": {
+        "year": 1450
+      },
+      "text": {
+        "headline": "Edad Antigua y Edad Media"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1451
+      },
+      "end_date": {
+        "year": 1700
+      },
+      "text": {
+        "headline": "Renacimiento y Edad Moderna"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1701
+      },
+      "end_date": {
+        "year": 1799
+      },
+      "text": {
+        "headline": "Siglo XVIII: la electricidad animal"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1800
+      },
+      "end_date": {
+        "year": 1899
+      },
+      "text": {
+        "headline": "Siglo XIX: la corteza cerebral"
+      }
+    },
+    {
+      "start_date": {
+        "year": 1900
+      },
+      "end_date": {
+        "year": 1999
+      },
+      "text": {
+        "headline": "Siglo XX: la neurona y la química cerebral"
+      }
+    }
   ],
   "events": [
     {
-      "start_date": { "year": -3000 },
-      "display_date": "c. 3000 a.C.",
+      "start_date": {
+        "year": -3000
+      },
+      "display_date": "c. 3000-1700 BCE",
       "group": "Edad Antigua y Media",
-      "text": { "headline": "El texto en que se basa el papiro de Edwin Smith", "text": "" }
+      "text": {
+        "headline": "Papiro Quirúrgico de Edwin Smith",
+        "text": "El papiro quirúrgico de Edwin Smith, copia de un texto unos trece siglos anterior, es el primer documento escrito en que se nombra el cerebro. Los antiguos egipcios aparentemente no le daban importancia, pues se lo sacaban a las momias mientras conservaban otros órganos para el viaje a la otra vida."
+      },
+      "end_date": {
+        "year": -1700
+      },
+      "media": {
+        "url": "assets/img/papiro-edwin-smith.jpg",
+        "caption": "Papiro Quirúrgico de Edwin Smith.",
+        "credit": "Jeff Dahl, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Edwin_Smith_Papyrus_v2.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": -1700 },
-      "display_date": "c. 1700 a.C.",
+      "start_date": {
+        "year": -460
+      },
+      "end_date": {
+        "year": -377
+      },
+      "display_date": "c. 460-377 BCE",
       "group": "Edad Antigua y Media",
-      "text": { "headline": "Papiro Quirúrgico de Edwin Smith", "text": "" }
+      "text": {
+        "headline": "Hipócrates sitúa la función mental en el cerebro",
+        "text": "Hipócrates asigna correctamente al cerebro la función mental. Identifica que las lesiones cerebrales causan convulsiones y parálisis en la mitad opuesta del cuerpo."
+      },
+      "media": {
+        "url": "assets/img/hippocrates.jpg",
+        "caption": "Hipócrates de Cos.",
+        "credit": "Unidentified engraver, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Hippocrates.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": -460 },
-      "end_date": { "year": -377 },
-      "display_date": "c. 460-377 a.C.",
+      "start_date": {
+        "year": -384
+      },
+      "end_date": {
+        "year": -322
+      },
+      "display_date": "384-322 BCE",
       "group": "Edad Antigua y Media",
-      "text": { "headline": "Hipócrates sitúa la función mental en el cerebro", "text": "" }
+      "text": {
+        "headline": "Aristóteles y el cardiocentrismo",
+        "text": "Aristóteles sostiene el cardiocentrismo: la mente reside en el corazón y el cerebro, frío y sin sangre, sirve para enfriarla. La huella de esa doctrina sigue en palabras como cordura y recordar, del latín cor, corazón."
+      },
+      "media": {
+        "url": "assets/img/aristotle.jpg",
+        "caption": "Aristóteles.",
+        "credit": "After Lysippos, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": -384 },
-      "end_date": { "year": -322 },
-      "display_date": "384-322 a.C.",
+      "start_date": {
+        "year": 130
+      },
+      "end_date": {
+        "year": 200
+      },
+      "display_date": "c. 130-200",
       "group": "Edad Antigua y Media",
-      "text": { "headline": "Aristóteles y el cardiocentrismo", "text": "" }
+      "text": {
+        "headline": "Galeno, los nervios huecos y los espíritus animales",
+        "text": "Disección de animales, con predilección por el buey, grande y fácil de conseguir. Identifica la función de los nervios como transmisores de impulsos nerviosos, pero los considera “espíritus animales” más que el término moderno de impulso nervioso."
+      },
+      "media": {
+        "url": "assets/img/galen.jpg",
+        "caption": "Galeno de Pérgamo.",
+        "credit": "Georg Paul Busch (engraver), Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Galenus.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 130 },
-      "end_date": { "year": 200 },
-      "display_date": "c. 130-200 d.C.",
-      "group": "Edad Antigua y Media",
-      "text": { "headline": "Galeno, los nervios huecos y los espíritus animales", "text": "" }
-    },
-    {
-      "start_date": { "year": 350 },
+      "start_date": {
+        "year": 350
+      },
       "display_date": "Siglo IV",
       "group": "Edad Antigua y Media",
-      "text": { "headline": "Nemesio y la teoría ventricular", "text": "" }
+      "text": {
+        "headline": "Nemesio y la teoría ventricular",
+        "text": "Se piensa que los espíritus animales de Galeno se generan en los ventrículos cerebrales. Para la mentalidad cristiana el cerebro no podía ser un vínculo entre el alma y el cuerpo, pues era demasiado terrenal. Nemesio atribuye funciones específicas a ventrículos específicos, los sentidos al ventrículo frontal."
+      }
     },
     {
-      "start_date": { "year": 1316 },
+      "start_date": {
+        "year": 1316
+      },
       "group": "Edad Antigua y Media",
-      "text": { "headline": "La Anatomía de Mondino de Bolonia", "text": "" }
+      "text": {
+        "headline": "La Anatomía de Mondino de Bolonia",
+        "text": "La Anatomía de Mondino de Bolonia se vuelve el manual de referencia en Europa y se reedita durante generaciones. La disección regresa a la enseñanza, pero se practica para confirmar el texto heredado y no para corregirlo."
+      },
+      "media": {
+        "url": "assets/img/mondino-de-luzzi.jpg",
+        "caption": "Mondino de Luzzi, de Bolonia.",
+        "credit": "Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Mundinus.jpeg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1452 },
-      "end_date": { "year": 1519 },
+      "start_date": {
+        "year": 1452
+      },
+      "end_date": {
+        "year": 1519
+      },
       "display_date": "1452-1519",
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "Leonardo da Vinci: el molde de cera de los ventrículos", "text": "" }
+      "text": {
+        "headline": "Leonardo da Vinci: el molde de cera de los ventrículos",
+        "text": "Llenó un cerebro de cera para crear un modelo de los ventrículos cerebrales. No encontró el ventrículo frontal que se suponía debía alojar al senso comune. No publicó sus hallazgos."
+      },
+      "media": {
+        "url": "assets/img/leonardo-ventriculos.jpg",
+        "caption": "Estudio de Leonardo del cerebro y los nervios craneales, con su escritura en espejo.",
+        "credit": "Leonardo da Vinci, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Leonardo_Da_Vinci%27s_Brain_Physiology.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1512 },
+      "start_date": {
+        "year": 1512
+      },
       "group": "Edad Antigua y Media",
-      "text": { "headline": "La teoría ventricular ilustrada por Gregor Reisch", "text": "" }
+      "text": {
+        "headline": "La teoría ventricular ilustrada por Gregor Reisch",
+        "text": "La Margarita philosophica nova, de Gregor Reisch, fija la imagen canónica de la teoría ventricular: una cabeza abierta con las facultades repartidas en tres cavidades. Es la doctrina en su punto de mayor difusión, tres décadas antes de que la anatomía humana la desmonte."
+      },
+      "media": {
+        "url": "assets/img/ventriculos-reisch.jpg",
+        "caption": "La cabeza con los ventrículos cerebrales, según la doctrina ventricular.",
+        "credit": "CC BY 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:Woodcut_of_head_showing_Cerebral_ventricles._Wellcome_M0000436.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1543 },
+      "start_date": {
+        "year": 1543
+      },
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "Vesalio publica De humani corporis fabrica", "text": "" }
+      "text": {
+        "headline": "Vesalio publica De humani corporis fabrica",
+        "text": "Descubre las diferencias entre la anatomía animal, descrita por Galeno, y la humana, y publica De humani corporis fabrica. La obra documenta cerca de doscientos errores de Galeno, cuya anatomía resultó ser de simios y otros animales."
+      },
+      "media": {
+        "url": "assets/img/vesalio-fabrica.jpg",
+        "caption": "Frontispicio de De humani corporis fabrica, 1543.",
+        "credit": "Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Vesalius_Fabrica_fronticepiece.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1543 },
+      "start_date": {
+        "year": 1543
+      },
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "El mismo año: Copérnico y De revolutionibus orbium coelestium", "text": "" }
+      "text": {
+        "headline": "El mismo año: Copérnico y De revolutionibus orbium coelestium",
+        "text": "El mismo año aparece De revolutionibus orbium coelestium, de Copérnico. Dos libros publicados en 1543 desplazan a la vez el lugar de la Tierra en el cosmos y el de la autoridad clásica en la medicina."
+      },
+      "media": {
+        "url": "assets/img/de-revolutionibus-orbium-coelestium.png",
+        "caption": "Portada de De revolutionibus orbium coelestium, 1543.",
+        "credit": "derivative work of Johannes Petreius 1543 edition of File:Nicolai_Copernici_torinensis_De_revolutionibus_orbium_coelestium.djvu, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:De_revolutionibus_1543.png\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1596 },
-      "end_date": { "year": 1650 },
+      "start_date": {
+        "year": 1596
+      },
+      "end_date": {
+        "year": 1650
+      },
       "display_date": "1596-1650",
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "Descartes: el cuerpo como máquina y la glándula pineal", "text": "" }
+      "text": {
+        "headline": "Descartes: el cuerpo como máquina y la glándula pineal",
+        "text": "Descartes defiende la idea de los espíritus animales. Parte de un paradigma mecánico para tratar de explicarlo: imagina a los animales como autómatas de carne y hueso. Considera que la glándula pineal unía la mente al cuerpo."
+      },
+      "media": {
+        "url": "assets/img/ren-descartes.jpg",
+        "caption": "René Descartes, por Frans Hals.",
+        "credit": "After Frans Hals, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1621 },
-      "end_date": { "year": 1675 },
+      "start_date": {
+        "year": 1621
+      },
+      "end_date": {
+        "year": 1675
+      },
       "display_date": "1621-1675",
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "Thomas Willis y la anatomía detallada del cerebro", "text": "" }
+      "text": {
+        "headline": "Thomas Willis y la anatomía detallada del cerebro",
+        "text": "Thomas Willis, médico en Oxford, continúa la línea de Vesalio con una anatomía detallada del cerebro. La descripción de la estructura avanza mientras la explicación de su funcionamiento sigue siendo la de los espíritus animales."
+      },
+      "media": {
+        "url": "assets/img/thomas-willis.jpg",
+        "caption": "Thomas Willis.",
+        "credit": "David Loggan, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Thomas_Willis_ODNB.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1637 },
+      "start_date": {
+        "year": 1637
+      },
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "Discurso del método", "text": "" }
+      "text": {
+        "headline": "Discurso del método",
+        "text": "Descartes publica el Discurso del método, donde queda planteada la analogía entre el cuerpo y el autómata. El razonamiento mecánico entra a la explicación de la conducta antes de que exista cualquier medición del sistema nervioso."
+      },
+      "media": {
+        "url": "assets/img/discourse-on-the-method.jpg",
+        "caption": "Portada del Discurso del método, 1637.",
+        "credit": "Ian Maire, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Descartes_Discours_de_la_Methode.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1637 },
-      "end_date": { "year": 1680 },
+      "start_date": {
+        "year": 1637
+      },
+      "end_date": {
+        "year": 1680
+      },
       "display_date": "1637-1680",
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "Swammerdam refuta los espíritus animales", "text": "" }
+      "text": {
+        "headline": "Swammerdam refuta los espíritus animales",
+        "text": "En el siglo XVII cae el concepto de los espíritus animales. Jan Swammerdam pone a prueba experimentalmente la hipótesis de los espíritus animales: los músculos no aumentan de volumen al contraerse, así que no hay espíritus animales llegando."
+      },
+      "media": {
+        "url": "assets/img/swammerdam-rana.png",
+        "caption": "El experimento del músculo de rana en la jeringa de vidrio.",
+        "credit": "Jan Swammerdam, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Swammerdam_frog_thigh.PNG\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1650 },
+      "start_date": {
+        "year": 1650
+      },
       "display_date": "Siglo XVII",
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "Harvey, Galileo y el fin de los cuatro humores", "text": "" }
+      "text": {
+        "headline": "Harvey, Galileo y el fin de los cuatro humores",
+        "text": "William Harvey descubre la circulación de la sangre. El modelo clásico de los cuatro humores queda sin sustento."
+      },
+      "media": {
+        "url": "assets/img/william-harvey.jpg",
+        "caption": "William Harvey.",
+        "credit": "After Daniël Mijtens, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:William_Harvey_2.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1662 },
+      "start_date": {
+        "year": 1662
+      },
       "display_date": "1662 y 1664",
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "De homine: el reflejo nervioso ilustrado", "text": "" }
+      "text": {
+        "headline": "De homine: el reflejo nervioso ilustrado",
+        "text": "De homine se publica en latín doce años después de la muerte de Descartes, y en francés en 1664. De ahí viene la ilustración clásica del reflejo: el pie junto al fuego, el hilo que sube por el nervio y la respuesta que baja. Es la primera descripción detallada del reflejo nervioso, aunque Descartes no lo llama así."
+      },
+      "media": {
+        "url": "assets/img/descartes-reflejo.jpg",
+        "caption": "La ilustración del reflejo en De homine.",
+        "credit": "René Descartes, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Descartes-reflex.JPG\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1670 },
+      "start_date": {
+        "year": 1670
+      },
       "display_date": "Siglo XVII",
       "group": "Renacimiento y Edad Moderna",
-      "text": { "headline": "Leeuwenhoek y el ocaso de los nervios huecos", "text": "" }
+      "text": {
+        "headline": "Leeuwenhoek y el ocaso de los nervios huecos",
+        "text": "El reinado de los espíritus animales empieza a caer cuando se le exige cuentas a la hidrodinámica. Leeuwenhoek no encuentra en un buey el orificio del nervio óptico que Galeno describía como visible a simple vista, y un nervio fuertemente atado no se hincha por la presión que esos espíritus deberían ejercer."
+      },
+      "media": {
+        "url": "assets/img/antonie-van-leeuwenhoek.jpg",
+        "caption": "Antonie van Leeuwenhoek.",
+        "credit": "Jan Verkolje, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Anthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1750 },
+      "start_date": {
+        "year": 1750
+      },
       "display_date": "Siglo XVIII",
       "group": "Siglo XVIII",
-      "text": { "headline": "La electricidad estática y la botella de Leyden", "text": "" }
+      "text": {
+        "headline": "La electricidad estática y la botella de Leyden",
+        "text": "La electricidad estática se vuelve moda social: máquinas de fricción en los salones y la botella de Leyden, que por primera vez permite almacenarla. En las demostraciones públicas una chispa mata animales pequeños y hace moverse miembros paralizados, con lo que la electricidad y el movimiento quedan en la misma escena."
+      },
+      "media": {
+        "url": "assets/img/botella-leyden.jpg",
+        "caption": "Botella de Leyden.",
+        "credit": "Rama, CC BY-SA 3.0 fr. <a href=\"https://commons.wikimedia.org/wiki/File:Leyden_jar-MHS_1188-P5200043-white.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1781 },
-      "end_date": { "year": 1791 },
+      "start_date": {
+        "year": 1781
+      },
+      "end_date": {
+        "year": 1791
+      },
       "display_date": "Una década hasta 1791",
       "group": "Siglo XVIII",
-      "text": { "headline": "Galvani y la electricidad animal", "text": "" }
+      "text": {
+        "headline": "Galvani y la electricidad animal",
+        "text": "Luigi Galvani, profesor de anatomía en Bolonia, monta un laboratorio en su propia casa y trabaja una década con ancas de rana recién preparadas. Se contraen con la chispa de la máquina de fricción, con la electricidad de una tormenta y, al final, sin ninguna fuente externa, cuando el nervio ciático toca el músculo del muslo o el nervio de otra preparación. El fluido eléctrico viene de dentro del animal, y a eso llama electricidad animal."
+      },
+      "media": {
+        "url": "assets/img/galvani-ranas.jpg",
+        "caption": "Las ancas de rana en los experimentos de Galvani.",
+        "credit": "Luigi Galvani, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Galvani-frogs-legs-electricity.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1791 },
+      "start_date": {
+        "year": 1791
+      },
       "group": "Siglo XVIII",
-      "text": { "headline": "De viribus electricitatis in motu musculari", "text": "" }
+      "text": {
+        "headline": "De viribus electricitatis in motu musculari",
+        "text": "Galvani publica De viribus electricitatis in motu musculari: commentarius. Demostró que los músculos se mueven en respuesta a impulsos eléctricos propios del cuerpo."
+      },
+      "media": {
+        "url": "assets/img/luigi-galvani.jpg",
+        "caption": "Luigi Galvani.",
+        "credit": "Unidentified painter, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Luigi_Galvani,_oil-painting.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1800 },
+      "start_date": {
+        "year": 1800
+      },
       "display_date": "Principios del siglo XIX",
       "group": "Siglo XIX",
-      "text": { "headline": "Gall funda la frenología", "text": "" }
+      "text": {
+        "headline": "Gall funda la frenología",
+        "text": "En el siglo XIX se reconoce la importancia de la corteza cerebral. La frenología es una pseudociencia que evalúa la psicología de un individuo en función del aspecto de su cabeza: se cree que cada zona de la cabeza alberga un aspecto de la personalidad. Gall propone 27 facultades localizadas, 19 compartidas con los animales y 8 exclusivamente humanas, legibles por craneoscopia."
+      },
+      "media": {
+        "url": "assets/img/gall-craneoscopia.jpg",
+        "caption": "Carta craneoscópica de la frenología.",
+        "credit": "CC BY 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:Phrenological_chart_with_three_perspectives_of_a_head_and_sk_Wellcome_V0009524.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1808 },
+      "start_date": {
+        "year": 1808
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "La caricatura de Rowlandson: la frenología en la cultura popular", "text": "" }
+      "text": {
+        "headline": "La caricatura de Rowlandson: la frenología en la cultura popular",
+        "text": "La caricatura de Thomas Rowlandson muestra a Gall discutiendo frenología en medio de su colección de cráneos. Sirve de medida de hasta dónde llegó el movimiento: a la cultura popular, antes que a la prueba experimental."
+      },
+      "media": {
+        "url": "assets/img/rowlandson-frenologia.jpg",
+        "caption": "Gall discutiendo frenología entre su colección de cráneos.",
+        "credit": "CC BY 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:Franz_Joseph_Gall_leading_a_discussion_on_phrenology_with_fi_Wellcome_V0011105.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1820 },
+      "start_date": {
+        "year": 1820
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "Flourens pone a prueba la frenología", "text": "" }
+      "text": {
+        "headline": "Flourens pone a prueba la frenología",
+        "text": "La Académie des Sciences encarga a Pierre Flourens poner a prueba la frenología con método riguroso, y él corre una larga serie de experimentos con ranas, palomas, gallinas y otras aves sin hallar rastro de especialización cortical. El episodio es paradójico: Gall tenía razón en el principio y se equivocó en el método, Flourens fue impecable en el método y partió de una premisa falsa, porque trabajó con especies de corteza poco desarrollada."
+      },
+      "media": {
+        "url": "assets/img/jean-pierre-flourens.jpg",
+        "caption": "Pierre Flourens.",
+        "credit": "Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Pierre_flourens.jpeg\">Wikimedia Commons</a>"
+      },
+      "display_date": "Desde 1820"
     },
     {
-      "start_date": { "year": 1828 },
+      "start_date": {
+        "year": 1828
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "Muere Gall y su cráneo entra en la colección", "text": "" }
+      "text": {
+        "headline": "Muere Gall y su cráneo entra en la colección",
+        "text": "Gall muere de un accidente cerebrovascular y su propio cráneo se suma a la colección de unos trescientos que había reunido en París. La frenología sobrevive como espectáculo mucho después de haber perdido la discusión científica."
+      },
+      "media": {
+        "url": "assets/img/franz-joseph-gall.jpg",
+        "caption": "Franz Joseph Gall.",
+        "credit": "Zéphirin Félix Jean Marius Belliard (1798–), engraver Delpech (Paris), Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Franz_Josef_Gall3.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1861 },
+      "start_date": {
+        "year": 1861
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "Broca y el caso de Monsieur Tan", "text": "" }
+      "text": {
+        "headline": "Broca y el caso de Monsieur Tan",
+        "text": "Pierre-Paul Broca publicó un informe clínico que demuestra que una parte del cerebro se especializa en el lenguaje. El caso es el de Leborgne, Monsieur Tan, un paciente que sólo podía pronunciar esa sílaba, y la autopsia mostró una lesión en el lóbulo frontal izquierdo."
+      },
+      "media": {
+        "url": "assets/img/broca-cerebro-leborgne.jpg",
+        "caption": "El cerebro de Louis Victor Leborgne, Monsieur Tan, conservado en el Museo Dupuytren.",
+        "credit": "Selbymay, CC BY-SA 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:Cerveau_de_Louis_Victor_Leborgne_dit_Tantan_1.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1862 },
+      "start_date": {
+        "year": 1862
+      },
       "display_date": "Poco después de 1861",
       "group": "Siglo XIX",
-      "text": { "headline": "Wernicke describe una afasia de comprensión", "text": "" }
+      "text": {
+        "headline": "Wernicke describe una afasia de comprensión",
+        "text": "Carl Wernicke identifica un área que procesa y entiende el lenguaje. De ahí los nombres de la afasia de Broca y la afasia de Wernicke. El paciente no está sordo y aun así no entiende lo que se le dice, y la lesión está más atrás, en el lóbulo temporal izquierdo."
+      },
+      "media": {
+        "url": "assets/img/carl-wernicke.jpg",
+        "caption": "Carl Wernicke.",
+        "credit": "J.F. Lehmann, Muenchen, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:C._Wernicke.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1870 },
+      "start_date": {
+        "year": 1870
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "Fritsch y Hitzig descubren la corteza motora", "text": "" }
+      "text": {
+        "headline": "Fritsch y Hitzig descubren la corteza motora",
+        "text": "Gustav Fritsch y Eduard Hitzig trabajan en la casa de Hitzig, porque el Instituto Fisiológico de Berlín no tenía animalario, retiran fragmentos de cráneo en perros y estimulan puntos de la corteza con un electrodo. Aparecen movimientos en el lado opuesto del cuerpo, ordenados como un mapa: un punto mueve el cuello, otro la pata delantera, otro la trasera, y las respuestas se repiten al reestimular. Es la demostración experimental de la corteza motora, la prueba que al localizacionismo le faltaba."
+      },
+      "media": {
+        "url": "assets/img/eduard-hitzig.jpg",
+        "caption": "Eduard Hitzig.",
+        "credit": "Unknown authorUnknown author, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Eduard_Hitzig_(1898).jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1873 },
+      "start_date": {
+        "year": 1873
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "Golgi descubre la reazione nera", "text": "" }
+      "text": {
+        "headline": "Golgi descubre la reazione nera",
+        "text": "Camillo Golgi trabaja en la cocina de un hospital cerca de Milán, acondicionada como laboratorio, y descubre la reazione nera: el nitrato de plata tiñe unas pocas células y sus filamentos en negro denso sobre fondo ámbar. Por primera vez se puede seguir una célula nerviosa completa, con una nitidez parecida a la de un dibujo a tinta."
+      },
+      "media": {
+        "url": "assets/img/golgi-dibujo.gif",
+        "caption": "Dibujo de Golgi del sistema nervioso con la reazione nera.",
+        "credit": "Javier DeFelipe, CC BY-SA 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:Golgi%27s_drawing_of_nervous_system.gif\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1876 },
+      "start_date": {
+        "year": 1876
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "Ferrier publica The functions of the brain", "text": "" }
+      "text": {
+        "headline": "Ferrier publica The functions of the brain",
+        "text": "David Ferrier publica The functions of the brain y mapea la corteza sensorial con lesiones y estimulación eléctrica en primates, elegidos porque cuanto más cercana la especie, más claro el resultado. Sus mapas se extrapolaron a dibujos del cerebro humano sin respaldo experimental para ese salto."
+      },
+      "media": {
+        "url": "assets/img/ferrier-mapa-mono.gif",
+        "caption": "El mapa funcional de Ferrier sobre el cerebro del mono.",
+        "credit": "David Ferrier, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Ferriermonkey.gif\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1878 },
+      "start_date": {
+        "year": 1878
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "Ferrier y Hughlings Jackson fundan la revista Brain", "text": "" }
+      "text": {
+        "headline": "Ferrier y Hughlings Jackson fundan la revista Brain",
+        "text": "Ferrier funda, con John Hughlings Jackson y otros, la revista Brain, que sigue siendo una de las publicaciones de mayor impacto del campo. El estudio del cerebro adquiere el aparato de una disciplina: revista propia, congresos y discusión entre pares."
+      },
+      "media": {
+        "url": "assets/img/hughlings-jackson.jpg",
+        "caption": "John Hughlings Jackson, cofundador de la revista Brain.",
+        "credit": "CC BY 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:John_Hughlings_Jackson._Photogravure_after_L._Calkin,_1895._Wellcome_L0005744.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1881 },
+      "start_date": {
+        "year": 1881
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "El Congreso de Londres y el juicio contra Ferrier", "text": "" }
+      "text": {
+        "headline": "El Congreso de Londres y el juicio contra Ferrier",
+        "text": "Tras los debates del Congreso Internacional de Londres, Ferrier es llevado a juicio bajo la Act against Cruelty to Animals. Lo absuelven cuando demuestra que usaba anestesia, y pesa en la decisión que hubiera casos clínicos beneficiados por sus mapas funcionales, con cirujanos capaces de predecir la ubicación de un tumor o un absceso."
+      },
+      "media": {
+        "url": "assets/img/david-ferrier.jpg",
+        "caption": "David Ferrier.",
+        "credit": "AnonymousUnknown author, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:David_Ferrier.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1887 },
+      "start_date": {
+        "year": 1887
+      },
       "display_date": "Catorce años después de Golgi",
       "group": "Siglo XIX",
-      "text": { "headline": "Cajal mejora la tinción con la doble impregnación", "text": "" }
+      "text": {
+        "headline": "Cajal mejora la tinción con la doble impregnación",
+        "text": "Catorce años después del método de Golgi, Santiago Ramón y Cajal lo mejora con cortes más gruesos y doble impregnación, y trabaja con embriones y animales jóvenes, donde los axones no están mielinizados y las células destacan. Demuestra las dos afirmaciones que fundan la neurociencia moderna: el sistema nervioso está hecho de células independientes que se comunican por contigüidad y no por continuidad, y la neurona es polarizada, el impulso entra por las dendritas y sale por el axón."
+      },
+      "media": {
+        "url": "assets/img/cajal-purkinje.jpg",
+        "caption": "Célula de Purkinje, dibujo de Cajal.",
+        "credit": "Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:PurkinjeCell.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1889, "month": 10 },
+      "start_date": {
+        "year": 1889,
+        "month": 10
+      },
       "display_date": "Otoño de 1889",
       "group": "Siglo XIX",
-      "text": { "headline": "El congreso de Berlín y la conversión de Kölliker", "text": "" }
+      "text": {
+        "headline": "El congreso de Berlín y la conversión de Kölliker",
+        "text": "Cajal, desconocido y con mal francés, gasta sus ahorros para viajar al congreso de la élite anatómica en Berlín con sus preparaciones y su microscopio Zeiss, y en lugar de argumentar deja mirar. Albrecht von Kölliker, patriarca de la anatomía alemana, abandona en público la posición reticular, aprende español a los 72 años para traducirlo al alemán y se vuelve su aliado."
+      },
+      "media": {
+        "url": "assets/img/albert-von-k-lliker.jpg",
+        "caption": "Albrecht von Kölliker.",
+        "credit": "Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:K%C3%B6lliker_Rudolph_Albert_von_1818-1902.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1899 },
+      "start_date": {
+        "year": 1899
+      },
       "group": "Siglo XIX",
-      "text": { "headline": "Textura del sistema nervioso del hombre y de los vertebrados", "text": "" }
+      "text": {
+        "headline": "Textura del sistema nervioso del hombre y de los vertebrados",
+        "text": "Aparece el primer tomo de Textura del sistema nervioso del hombre y de los vertebrados, donde Cajal expone el método y las pruebas de la teoría neuronal. La obra fija el estándar de la descripción histológica del sistema nervioso."
+      },
+      "media": {
+        "url": "assets/img/cajal-corteza.png",
+        "caption": "Dibujos de Cajal de la corteza cerebral.",
+        "credit": "User:Looie496 created file, Santiago Ramon y Cajal created artwork, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Cajal_cortex_drawings.png\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1906 },
+      "start_date": {
+        "year": 1906
+      },
       "group": "Siglo XX",
-      "text": { "headline": "Nobel compartido: Cajal y Golgi", "text": "" }
+      "text": {
+        "headline": "Nobel compartido: Cajal y Golgi",
+        "text": "El Nobel de Fisiología o Medicina se reparte entre Cajal y Golgi, que eran adversarios científicos. Golgi aprovechó su discurso de aceptación para defender la teoría reticular que su propia tinción había ayudado a refutar."
+      },
+      "media": {
+        "url": "assets/img/santiago-ram-n-y-cajal.jpg",
+        "caption": "Santiago Ramón y Cajal.",
+        "credit": "Original photo is anonymous although published by Clark University in 1899. Restoration by Garrondo, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Santiago_Ram%C3%B3n_y_Cajal_(1852-1934)_portrait_(restored).jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1917 },
+      "start_date": {
+        "year": 1917
+      },
       "group": "Siglo XX",
-      "text": { "headline": "Recuerdos de mi vida", "text": "" }
+      "text": {
+        "headline": "Recuerdos de mi vida",
+        "text": "Cajal publica Recuerdos de mi vida, la autobiografía de donde viene su propio relato del método y del congreso de Berlín. Es la fuente que permite reconstruir cómo se ganó la discusión, que fue mostrando imágenes."
+      },
+      "media": {
+        "url": "assets/img/cajal-hipocampo.jpg",
+        "caption": "El hipocampo, dibujo de Cajal.",
+        "credit": "Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:CajalHippocampus.jpeg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1932 },
+      "start_date": {
+        "year": 1932
+      },
       "group": "Siglo XX",
-      "text": { "headline": "Sherrington nombra la sinapsis y recibe el Nobel con Adrian", "text": "" }
+      "text": {
+        "headline": "Sherrington nombra la sinapsis y recibe el Nobel con Adrian",
+        "text": "Charles Sherrington entiende la importancia de la unión entre dos fibras nerviosas y la nombra sinapsis. Por el retardo que midió supuso correctamente que ahí hay un espacio físico, imposible de ver hasta el microscopio electrónico. El Nobel de 1932 lo comparte con Edgar Adrian, que descifró el código de la neurona."
+      },
+      "media": {
+        "url": "assets/img/charles-scott-sherrington.jpg",
+        "caption": "Charles Scott Sherrington.",
+        "credit": "Unknown authorUnknown author, CC BY 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:Charles_Scott_Sherrington2.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1936 },
+      "start_date": {
+        "year": 1936
+      },
       "group": "Siglo XX",
-      "text": { "headline": "Dale y Loewi: la transmisión química del impulso nervioso", "text": "" }
+      "text": {
+        "headline": "Dale y Loewi: la transmisión química del impulso nervioso",
+        "text": "El Nobel va a Henry Dale y Otto Loewi por el descubrimiento de la transmisión química del impulso nervioso, después de que la acetilcolina se identificara en las primeras décadas del siglo. Valenstein compara la importancia de este hallazgo con la del código genético y la bomba atómica."
+      },
+      "media": {
+        "url": "assets/img/henry-hallett-dale.jpg",
+        "caption": "Henry Hallett Dale.",
+        "credit": "Michieli, CC BY 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:Henry_Hallett_Dale3.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1950 },
+      "start_date": {
+        "year": 1950
+      },
       "display_date": "Década de 1950",
       "group": "Siglo XX",
-      "text": { "headline": "Nace la psicología cognitiva", "text": "" }
+      "text": {
+        "headline": "Nace la psicología cognitiva",
+        "text": "La psicología cognitiva surge como reacción al conductismo dominante en la primera mitad del siglo. Los procesos mentales, que los conductistas descartaban por inobservables, pueden inferirse con medidas indirectas bien diseñadas, como los tiempos de reacción. De esa década es también la teoría motora de la percepción del habla."
+      },
+      "media": {
+        "url": "assets/img/tiempos-reaccion.png",
+        "caption": "Aparato para medir la ecuación personal, antecedente de los tiempos de reacción.",
+        "credit": "Karl Pearson, Public domain. <a href=\"https://commons.wikimedia.org/wiki/File:Apparatus_for_Personal_Equation.png\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1960 },
+      "start_date": {
+        "year": 1960
+      },
       "display_date": "Década de 1960",
       "group": "Siglo XX",
-      "text": { "headline": "Hubel y Wiesel en la corteza visual, Kandel en la memoria", "text": "" }
+      "text": {
+        "headline": "Hubel y Wiesel en la corteza visual, Kandel en la memoria",
+        "text": "David Hubel y Torsten Wiesel en la corteza visual, y Eric Kandel en la memoria, todos premios Nobel, registran la actividad de neuronas individuales. El registro unitario muestra cómo la corteza procesa la información sensorial en sus primeras etapas."
+      },
+      "media": {
+        "url": "assets/img/david-h-hubel.jpg",
+        "caption": "David H. Hubel.",
+        "credit": "Joey cantod, CC BY-SA 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:DHUBEL.jpg\">Wikimedia Commons</a>"
+      }
     },
     {
-      "start_date": { "year": 1990 },
+      "start_date": {
+        "year": 1990
+      },
       "display_date": "Década de 1990",
       "group": "Siglo XX",
-      "text": { "headline": "La década del cerebro y las técnicas de neuroimagen", "text": "" }
+      "text": {
+        "headline": "La década del cerebro y las técnicas de neuroimagen",
+        "text": "Los noventa se declaran la década del cerebro. La neuroimagen y el registro electrofisiológico, PET, RMf, potenciales evocados, MEG, DTI y EMT, permiten observar el cerebro intacto en funcionamiento, y es eso lo que hace posible la neurociencia cognitiva como campo."
+      },
+      "media": {
+        "url": "assets/img/functional-magnetic-resonance-imaging.jpg",
+        "caption": "Imagen de resonancia magnética funcional.",
+        "credit": "OpenStax, CC BY 4.0. <a href=\"https://commons.wikimedia.org/wiki/File:1206_FMRI.jpg\">Wikimedia Commons</a>"
+      }
+    },
+    {
+      "start_date": {
+        "year": 2000
+      },
+      "display_date": "Referencias",
+      "text": {
+        "headline": "Referencias",
+        "text": "González Álvarez, J. (2014). La mente y el cerebro: historia y principios de la neurociencia cognitiva. En D. Redolar (Ed.), <em>Neurociencia cognitiva</em> (pp. 3-25). Editorial Médica Panamericana.<br><br>Las imágenes provienen de Wikimedia Commons. Cada una lleva su autor y su licencia en el crédito de la propia imagen."
+      }
     }
   ]
 }
