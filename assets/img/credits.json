@@ -1,0 +1,402 @@
+{
+ "albert-von-k-lliker": {
+  "file": "assets/img/albert-von-k-lliker.jpg",
+  "commons": "Kölliker Rudolph Albert von 1818-1902.jpg",
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6lliker_Rudolph_Albert_von_1818-1902.jpg"
+ },
+ "antonie-van-leeuwenhoek": {
+  "file": "assets/img/antonie-van-leeuwenhoek.jpg",
+  "commons": "Anthonie van Leeuwenhoek (1632-1723). Natuurkundige te Delft Rijksmuseum SK-A-957.jpeg",
+  "license": "Public domain",
+  "artist": "Jan Verkolje",
+  "date": "from 1680 until 1686date QS:P,+1680-00-00T00:00:00Z/8,P580,+1680-00-00T00:00:00Z/9,P582,+1686-00-00T00:00:00Z/9",
+  "page": "https://commons.wikimedia.org/wiki/File:Anthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg"
+ },
+ "aristotle": {
+  "file": "assets/img/aristotle.jpg",
+  "commons": "Aristotle Altemps Inv8575.jpg",
+  "license": "Public domain",
+  "artist": "After Lysippos",
+  "date": "after 330 BC",
+  "page": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+ },
+ "camillo-golgi": {
+  "file": "assets/img/camillo-golgi.jpg",
+  "commons": "Camillo Golgi nobel.jpg",
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "Unknown date, published in 1903 in Italy, in 1906 in Germany, in 1907 in Les Prix Nobel in Sweden",
+  "page": "https://commons.wikimedia.org/wiki/File:Camillo_Golgi_nobel.jpg"
+ },
+ "carl-wernicke": {
+  "file": "assets/img/carl-wernicke.jpg",
+  "commons": "C. Wernicke.jpg",
+  "license": "Public domain",
+  "artist": "J.F. Lehmann, Muenchen",
+  "date": "before 1905date QS:P,+1905-00-00T00:00:00Z/7,P1326,+1905-00-00T00:00:00Z/9",
+  "page": "https://commons.wikimedia.org/wiki/File:C._Wernicke.jpg"
+ },
+ "charles-scott-sherrington": {
+  "file": "assets/img/charles-scott-sherrington.jpg",
+  "commons": "Charles Scott Sherrington2.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Unknown authorUnknown author",
+  "date": "Unknown date",
+  "page": "https://commons.wikimedia.org/wiki/File:Charles_Scott_Sherrington2.jpg"
+ },
+ "david-ferrier": {
+  "file": "assets/img/david-ferrier.jpg",
+  "commons": "David Ferrier.jpg",
+  "license": "Public domain",
+  "artist": "AnonymousUnknown author",
+  "date": "before 1928date QS:P,+1928-00-00T00:00:00Z/7,P1326,+1928-00-00T00:00:00Z/9",
+  "page": "https://commons.wikimedia.org/wiki/File:David_Ferrier.jpg"
+ },
+ "de-revolutionibus-orbium-coelestium": {
+  "file": "assets/img/de-revolutionibus-orbium-coelestium.png",
+  "commons": "De revolutionibus 1543.png",
+  "license": "Public domain",
+  "artist": "derivative work of Johannes Petreius 1543 edition of File:Nicolai_Copernici_torinensis_De_revolutionibus_orbium_coelestium.djvu",
+  "date": "2009-01-01 03:38",
+  "page": "https://commons.wikimedia.org/wiki/File:De_revolutionibus_1543.png"
+ },
+ "discourse-on-the-method": {
+  "file": "assets/img/discourse-on-the-method.jpg",
+  "commons": "Descartes Discours de la Methode.jpg",
+  "license": "Public domain",
+  "artist": "Ian Maire",
+  "date": "1637",
+  "page": "https://commons.wikimedia.org/wiki/File:Descartes_Discours_de_la_Methode.jpg"
+ },
+ "eric-kandel": {
+  "file": "assets/img/eric-kandel.jpg",
+  "commons": "Eric Kandel 01.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Bengt Oberger",
+  "date": "2014-12-09 14:52:12",
+  "page": "https://commons.wikimedia.org/wiki/File:Eric_Kandel_01.JPG"
+ },
+ "franz-joseph-gall": {
+  "file": "assets/img/franz-joseph-gall.jpg",
+  "commons": "Franz Josef Gall3.jpg",
+  "license": "Public domain",
+  "artist": "Zéphirin Félix Jean Marius Belliard (1798–), engraver Delpech (Paris)",
+  "date": "Unknown date",
+  "page": "https://commons.wikimedia.org/wiki/File:Franz_Josef_Gall3.jpg"
+ },
+ "functional-magnetic-resonance-imaging": {
+  "file": "assets/img/functional-magnetic-resonance-imaging.jpg",
+  "commons": "1206 FMRI.jpg",
+  "license": "CC BY 4.0",
+  "artist": "OpenStax",
+  "date": "2016-05-18",
+  "page": "https://commons.wikimedia.org/wiki/File:1206_FMRI.jpg"
+ },
+ "galen": {
+  "file": "assets/img/galen.jpg",
+  "commons": "Galenus.jpg",
+  "license": "Public domain",
+  "artist": "Georg Paul Busch (engraver)",
+  "date": "18th centurydate QS:P,+1750-00-00T00:00:00Z/7",
+  "page": "https://commons.wikimedia.org/wiki/File:Galenus.jpg"
+ },
+ "gregor-reisch": {
+  "file": "assets/img/gregor-reisch.jpg",
+  "commons": "Gregor Reisch book.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Victuallers",
+  "date": "2011-09-07",
+  "page": "https://commons.wikimedia.org/wiki/File:Gregor_Reisch_book.jpg"
+ },
+ "henry-hallett-dale": {
+  "file": "assets/img/henry-hallett-dale.jpg",
+  "commons": "Henry Hallett Dale3.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Michieli",
+  "date": "Unknown date",
+  "page": "https://commons.wikimedia.org/wiki/File:Henry_Hallett_Dale3.jpg"
+ },
+ "hippocrates": {
+  "file": "assets/img/hippocrates.jpg",
+  "commons": "Hippocrates.jpg",
+  "license": "Public domain",
+  "artist": "Unidentified engraver",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Hippocrates.jpg"
+ },
+ "jan-swammerdam": {
+  "file": "assets/img/jan-swammerdam.jpg",
+  "commons": "Jan Swammerdam in zijn werkkamer, RP-P-1920-815 (cropped).jpg",
+  "license": "CC0",
+  "artist": "Rijksmuseum",
+  "date": "between 1820 and 1870date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1820-00-00T00:00:00Z/9,P1326,+1870-00-00T00:00:00Z/9",
+  "page": "https://commons.wikimedia.org/wiki/File:Jan_Swammerdam_in_zijn_werkkamer,_RP-P-1920-815_(cropped).jpg"
+ },
+ "luigi-galvani": {
+  "file": "assets/img/luigi-galvani.jpg",
+  "commons": "Luigi Galvani, oil-painting.jpg",
+  "license": "Public domain",
+  "artist": "Unidentified painter",
+  "date": "between 18th centurydate QS:P571,+1750-00-00T00:00:00Z/7 and 19th centurydate QS:P571,+1850-00-00T00:00:00Z/7",
+  "page": "https://commons.wikimedia.org/wiki/File:Luigi_Galvani,_oil-painting.jpg"
+ },
+ "mondino-de-luzzi": {
+  "file": "assets/img/mondino-de-luzzi.jpg",
+  "commons": "Mundinus.jpeg",
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Mundinus.jpeg"
+ },
+ "ren-descartes": {
+  "file": "assets/img/ren-descartes.jpg",
+  "commons": "Frans Hals - Portret van René Descartes.jpg",
+  "license": "Public domain",
+  "artist": "After Frans Hals",
+  "date": "1649",
+  "page": "https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg"
+ },
+ "santiago-ram-n-y-cajal": {
+  "file": "assets/img/santiago-ram-n-y-cajal.jpg",
+  "commons": "Santiago Ramón y Cajal (1852-1934) portrait (restored).jpg",
+  "license": "Public domain",
+  "artist": "Original photo is anonymous although published by Clark University in 1899. Restoration by Garrondo",
+  "date": "1899",
+  "page": "https://commons.wikimedia.org/wiki/File:Santiago_Ram%C3%B3n_y_Cajal_(1852-1934)_portrait_(restored).jpg"
+ },
+ "william-harvey": {
+  "file": "assets/img/william-harvey.jpg",
+  "commons": "William Harvey 2.jpg",
+  "license": "Public domain",
+  "artist": "After Daniël Mijtens",
+  "date": "1627",
+  "page": "https://commons.wikimedia.org/wiki/File:William_Harvey_2.jpg"
+ },
+ "papiro-edwin-smith": {
+  "file": "assets/img/papiro-edwin-smith.jpg",
+  "commons": "Edwin Smith Papyrus v2.jpg",
+  "license": "Public domain",
+  "artist": "Jeff Dahl",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Edwin_Smith_Papyrus_v2.jpg"
+ },
+ "ventriculos-reisch": {
+  "file": "assets/img/ventriculos-reisch.jpg",
+  "commons": "Woodcut of head showing Cerebral ventricles. Wellcome M0000436.jpg",
+  "license": "CC BY 4.0",
+  "artist": "",
+  "date": "circa 1503date QS:P571,+1503-00-00T00:00:00Z/9,P1480,Q5727902",
+  "page": "https://commons.wikimedia.org/wiki/File:Woodcut_of_head_showing_Cerebral_ventricles._Wellcome_M0000436.jpg"
+ },
+ "vesalio-fabrica": {
+  "file": "assets/img/vesalio-fabrica.jpg",
+  "commons": "Vesalius Fabrica fronticepiece.jpg",
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Vesalius_Fabrica_fronticepiece.jpg"
+ },
+ "botella-leyden": {
+  "file": "assets/img/botella-leyden.jpg",
+  "commons": "Leyden jar-MHS 1188-P5200043-white.jpg",
+  "license": "CC BY-SA 3.0 fr",
+  "artist": "Rama",
+  "date": "Taken on 20 May 2018, 16:51 (according to Exif data)",
+  "page": "https://commons.wikimedia.org/wiki/File:Leyden_jar-MHS_1188-P5200043-white.jpg"
+ },
+ "gall-craneoscopia": {
+  "file": "assets/img/gall-craneoscopia.jpg",
+  "commons": "Phrenological chart with three perspectives of a head and sk Wellcome V0009524.jpg",
+  "license": "CC BY 4.0",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Phrenological_chart_with_three_perspectives_of_a_head_and_sk_Wellcome_V0009524.jpg"
+ },
+ "rowlandson-frenologia": {
+  "file": "assets/img/rowlandson-frenologia.jpg",
+  "commons": "Franz Joseph Gall leading a discussion on phrenology with fi Wellcome V0011105.jpg",
+  "license": "CC BY 4.0",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Franz_Joseph_Gall_leading_a_discussion_on_phrenology_with_fi_Wellcome_V0011105.jpg"
+ },
+ "broca-cerebro-leborgne": {
+  "file": "assets/img/broca-cerebro-leborgne.jpg",
+  "commons": "Cerveau de Louis Victor Leborgne dit Tantan 1.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Selbymay",
+  "date": "17 November 2021, 17:31:15",
+  "page": "https://commons.wikimedia.org/wiki/File:Cerveau_de_Louis_Victor_Leborgne_dit_Tantan_1.jpg"
+ },
+ "golgi-hipocampo": {
+  "file": "assets/img/golgi-hipocampo.jpg",
+  "commons": "Golgi Hippocampus.jpg",
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Golgi_Hippocampus.jpg"
+ },
+ "cajal-cerebelo": {
+  "file": "assets/img/cajal-cerebelo.jpg",
+  "commons": "CajalCerebellum.jpg",
+  "license": "Public domain",
+  "artist": "Santiago Ramón",
+  "date": "1905",
+  "page": "https://commons.wikimedia.org/wiki/File:CajalCerebellum.jpg"
+ },
+ "cajal-purkinje": {
+  "file": "assets/img/cajal-purkinje.jpg",
+  "commons": "PurkinjeCell.jpg",
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:PurkinjeCell.jpg"
+ },
+ "edgar-adrian": {
+  "file": "assets/img/edgar-adrian.jpg",
+  "commons": "Edgar Douglas Adrian nobel.jpg",
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "1932;  The human brain and spinal cord: a historical study illustrated by writings from antiquity to the twentieth century, Norman Publishing, p. 204  ISBN:  978-0-930405-25-0.   \"Edgar Douglas Adrian in 1932. From Les Prix Nobel en 1932, Stockholm, Norstedt &amp; Soner, 1934, facing p. 63. By permission of the Nobel Foundation.\"",
+  "page": "https://commons.wikimedia.org/wiki/File:Edgar_Douglas_Adrian_nobel.jpg"
+ },
+ "eduard-hitzig": {
+  "file": "assets/img/eduard-hitzig.jpg",
+  "commons": "Eduard Hitzig (1898).jpg",
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "1898",
+  "page": "https://commons.wikimedia.org/wiki/File:Eduard_Hitzig_(1898).jpg"
+ },
+ "jean-pierre-flourens": {
+  "file": "assets/img/jean-pierre-flourens.jpg",
+  "commons": "Pierre flourens.jpeg",
+  "license": "Public domain",
+  "artist": "",
+  "date": "1794  :1867",
+  "page": "https://commons.wikimedia.org/wiki/File:Pierre_flourens.jpeg"
+ },
+ "otto-loewi": {
+  "file": "assets/img/otto-loewi.jpg",
+  "commons": "Otto Loewi nobel.jpg",
+  "license": "Public domain",
+  "artist": "Albert Hilscher",
+  "date": "copyrighted in 1936",
+  "page": "https://commons.wikimedia.org/wiki/File:Otto_Loewi_nobel.jpg"
+ },
+ "paul-broca": {
+  "file": "assets/img/paul-broca.jpg",
+  "commons": "Paul broca.jpg",
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "date": "before 1880date QS:P,+1880-00-00T00:00:00Z/7,P1326,+1880-00-00T00:00:00Z/9",
+  "page": "https://commons.wikimedia.org/wiki/File:Paul_broca.jpg"
+ },
+ "thomas-willis": {
+  "file": "assets/img/thomas-willis.jpg",
+  "commons": "Thomas Willis ODNB.jpg",
+  "license": "Public domain",
+  "artist": "David Loggan",
+  "date": "1667",
+  "page": "https://commons.wikimedia.org/wiki/File:Thomas_Willis_ODNB.jpg"
+ },
+ "david-h-hubel": {
+  "file": "assets/img/david-h-hubel.jpg",
+  "commons": "DHUBEL.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Joey cantod",
+  "date": "1992-02-27",
+  "page": "https://commons.wikimedia.org/wiki/File:DHUBEL.jpg"
+ },
+ "vesalio-cerebro": {
+  "file": "assets/img/vesalio-cerebro.png",
+  "commons": "Vesalius 609c.png",
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Vesalius_609c.png"
+ },
+ "descartes-reflejo": {
+  "file": "assets/img/descartes-reflejo.jpg",
+  "commons": "Descartes-reflex.JPG",
+  "license": "Public domain",
+  "artist": "René Descartes",
+  "date": "1664",
+  "page": "https://commons.wikimedia.org/wiki/File:Descartes-reflex.JPG"
+ },
+ "swammerdam-rana": {
+  "file": "assets/img/swammerdam-rana.png",
+  "commons": "Swammerdam frog thigh.PNG",
+  "license": "Public domain",
+  "artist": "Jan Swammerdam",
+  "date": "published in 1758.",
+  "page": "https://commons.wikimedia.org/wiki/File:Swammerdam_frog_thigh.PNG"
+ },
+ "galvani-ranas": {
+  "file": "assets/img/galvani-ranas.jpg",
+  "commons": "Galvani-frogs-legs-electricity.jpg",
+  "license": "Public domain",
+  "artist": "Luigi Galvani",
+  "date": "30 October 2014, 17:43:15 (original upload date)",
+  "page": "https://commons.wikimedia.org/wiki/File:Galvani-frogs-legs-electricity.jpg"
+ },
+ "ferrier-mapa-mono": {
+  "file": "assets/img/ferrier-mapa-mono.gif",
+  "commons": "Ferriermonkey.gif",
+  "license": "Public domain",
+  "artist": "David Ferrier",
+  "date": "15 October 2004 (original upload date)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ferriermonkey.gif"
+ },
+ "cajal-corteza": {
+  "file": "assets/img/cajal-corteza.png",
+  "commons": "Cajal cortex drawings.png",
+  "license": "Public domain",
+  "artist": "User:Looie496 created file, Santiago Ramon y Cajal created artwork",
+  "date": "2009-11-20",
+  "page": "https://commons.wikimedia.org/wiki/File:Cajal_cortex_drawings.png"
+ },
+ "golgi-dibujo": {
+  "file": "assets/img/golgi-dibujo.gif",
+  "commons": "Golgi's drawing of nervous system.gif",
+  "license": "CC BY-SA 4.0",
+  "artist": "Javier DeFelipe",
+  "date": "2015-03-15",
+  "page": "https://commons.wikimedia.org/wiki/File:Golgi%27s_drawing_of_nervous_system.gif"
+ },
+ "cajal-hipocampo": {
+  "file": "assets/img/cajal-hipocampo.jpg",
+  "commons": "CajalHippocampus.jpeg",
+  "license": "Public domain",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:CajalHippocampus.jpeg"
+ },
+ "leonardo-ventriculos": {
+  "file": "assets/img/leonardo-ventriculos.jpg",
+  "commons": "Leonardo Da Vinci's Brain Physiology.jpg",
+  "license": "Public domain",
+  "artist": "Leonardo da Vinci",
+  "date": "1510-01-01",
+  "page": "https://commons.wikimedia.org/wiki/File:Leonardo_Da_Vinci%27s_Brain_Physiology.jpg"
+ },
+ "hughlings-jackson": {
+  "file": "assets/img/hughlings-jackson.jpg",
+  "commons": "John Hughlings Jackson. Photogravure after L. Calkin, 1895. Wellcome L0005744.jpg",
+  "license": "CC BY 4.0",
+  "artist": "",
+  "date": "",
+  "page": "https://commons.wikimedia.org/wiki/File:John_Hughlings_Jackson._Photogravure_after_L._Calkin,_1895._Wellcome_L0005744.jpg"
+ },
+ "tiempos-reaccion": {
+  "file": "assets/img/tiempos-reaccion.png",
+  "commons": "Apparatus for Personal Equation.png",
+  "license": "Public domain",
+  "artist": "Karl Pearson",
+  "date": "1902",
+  "page": "https://commons.wikimedia.org/wiki/File:Apparatus_for_Personal_Equation.png"
+ }
+}
